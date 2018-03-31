@@ -1,0 +1,28 @@
+Servers:
+  SW-1:
+    ip: 127.0.0.1
+    port: 25560
+    name: SW-1
+    mode: Solo
+    mapName: Dwarven
+    slot: 12
+Inventory:
+  ExitSlot: 40
+  MainMenu: "§aВыбор Сервер SkyWars"
+  RandomServerSlot: 10
+  RandomServerName: "§a§lБыстрый вход"
+  RandomServerLore: "§7Нажмите для быстрого входа в игру"
+  ServerToConnect: "§7Доступных серверов §2§n{count}"
+  AvailableServer: "§fДоступных серверов: §9%count%"
+  ServerCount: "§fВсего серверов: §e%count%"
+  error: "Сервер перезагружается, скоро станет доступен"
+  Totalplayers: "§fВсего Игроков: §e%count%"
+  ServerStatisticsSlot: 19
+  ServerStatisticsName: "§6Статистика"
+Settings:
+  ingamemotd: "game"
+Messages:
+  ServerIsFull: "На карте %map_name% идёт игра!"
+  ServerIngame: "На карте %map_name% идёт игра!"
+  ServerInstartgame: "На карте %map_name% начало игры!"
+  MapNotavailable: "Карта %map_name% не доступна"

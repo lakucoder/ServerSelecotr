@@ -1,0 +1,7 @@
+name: ServerSelector
+version: 1.5
+author: lakucode
+main: ru.lakucoder.selector.Main
+depend: [PermissionsEx]
+commands:
+  serverselector:
